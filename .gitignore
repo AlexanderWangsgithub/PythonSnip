@@ -1,0 +1,6 @@
+# General
+.DS_Store
+.cache
+venv
+ele
+.idea
